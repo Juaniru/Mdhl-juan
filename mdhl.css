@@ -178,3 +178,171 @@ justify-content: space-around;
 .h3partidosmdhl{
     padding-bottom: 10px;
 }
+
+
+
+
+/* reglas page */
+
+.reglasnav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+.classtitlereglas{
+    font-size: 18px;
+}
+
+
+
+.sectionreglas{
+    width: 90%;
+    margin-left: 50px;
+}
+
+
+.divreglas{
+    margin-bottom: 15px;
+}
+
+
+.articuloreglas1{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+}
+
+
+.dlreglas{
+    font-size: 18px;
+}
+
+.articleallplay{
+    margin-top: 15px;
+}
+
+.classallplay{
+    font-size: 20px;
+}
+
+.classallplay{
+    padding: 1rem;
+}
+
+
+.classallplayoriginal{
+    padding-top: 15px;
+}
+
+
+
+.trclass{
+    padding-bottom: 45px;
+}
+
+
+.headergame{
+    margin-left: 50px;
+}
+
+
+.titulogame{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.h3game{
+    text-decoration: underline;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+
+.tablegame{
+    width: 600px;
+    margin-bottom: 55px;
+}
+
+
+.articlegame{
+    display: flex;
+    
+}
+
+.articlegame2{
+    display: flex;
+    margin-top: 15px;
+    
+}
+
+.articlegame3{
+    display: flex;
+    margin-top: 25px;
+    
+}
+
+
+.articledatos{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    margin-bottom: 45px;
+}
+
+
+.articlegame4{
+    display: flex;
+}
+
+.articlegame5{
+    display: flex;
+    align-items: center;
+}
+
+
+
+.pgame{
+    padding-left: 5px;
+    font-size: 18px;
+}
+
+.pgame2{
+    padding-left: 5px;
+    font-size: 18px;
+}
+
+
+.pgame3{
+    padding-left: 5px;
+    font-size: 18px;
+}
+
+.pgame4{
+    padding-left: 5px;
+    font-size: 18px;
+    
+}
+
+.pgame5{
+    padding-left: 5px;
+    font-size: 20px;
+    color: black;
+    
+}
+
+
+.trclassfinal{
+    margin-bottom: 25px;
+}
+
+
+
+
+.sectiongame{
+    margin-left: 50px;
+}
