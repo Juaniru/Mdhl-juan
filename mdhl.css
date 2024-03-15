@@ -43,10 +43,11 @@ padding: 0px;
 .navbar{
     width: 100%;
     display: flex;
-    justify-content: space-around;
     align-items: center;
     background-color: antiquewhite;
-
+  height: 200px;
+  flex-direction: column;
+  padding-top: 50px;
 }
 
 
@@ -224,6 +225,7 @@ justify-content: space-around;
 
 .articleallplay{
     margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .classallplay{
@@ -345,4 +347,153 @@ justify-content: space-around;
 
 .sectiongame{
     margin-left: 50px;
+    padding-top: 35px;
 }
+
+/*aca esta la seccion de registros*/
+
+
+.tituloform{
+
+display: flex;
+justify-content: center;
+margin-top: 30px;
+font-size: 50px;
+
+
+}
+
+.article1{
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+  
+}
+
+.divpregunta{
+    padding-top: 15px;
+}
+
+
+.inputformulario {
+    border: none;
+    border-bottom: 1px solid black; 
+    outline: none;
+}
+
+.form1{
+    width: 100%;
+    justify-content: space-evenly;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.label1{
+
+    margin-left: 20px;
+    
+   
+}
+
+.city{
+    border: none;
+    border-bottom: 1px solid black; 
+    outline: none;
+   
+  
+   
+}
+
+
+
+.zip1{
+    border: none;
+    border-bottom: 1px solid black; 
+    outline: none;
+    
+  
+
+}
+
+
+.formfinal{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.form-group{
+    padding-top: 10px;
+}
+
+.fechainput{
+    border: none;
+    border-bottom: 1px solid black; 
+    outline: none;
+}
+
+
+
+
+.divfinal{
+    justify-content: space-around;
+    display: flex;
+    width: 50%;
+    padding: 10px;
+}
+
+.articlefinal{
+    padding-left: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.h2registro{
+    padding-top: 10px;
+}
+
+
+.divuniform{
+    display: flex;
+  height: 150px;
+  justify-content: space-around;
+  width: 50%;
+  padding-top: 25px;
+
+}
+
+.articlepermiso{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+}
+
+.bodyregistro{
+    background-color: antiquewhite;
+}
+
+.maps-container{
+    width: 6rem;
+    height: 6rem;
+    padding: 5px;
+}
+
+.maps{
+    width: 100%;
+    height: 50%;
+
+}
+    
+.divmapa{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 25px;
+}
+
+
+.articlemaps{
+display: flex;
+flex-direction: column;
+}
+
+  
